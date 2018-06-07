@@ -13,7 +13,8 @@
   },
   "files": [
     "index.js",
-    "utils.js"
+    "package.json",
+    "lib"
   ],
   "scripts": {},
   "dependencies": {
