@@ -1,0 +1,18 @@
+{
+  "name": "batigol-create",
+  "version": "0.0.1",
+  "description": "a function to create a app",
+  "author": "icecream",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 8"
+  },
+  "files": [
+    "index.js"
+  ],
+  "scripts": {},
+  "dependencies": {
+    "argparse": "^1.0.7",
+    "download-git-repo": "^1.0.2"
+  }
+}
