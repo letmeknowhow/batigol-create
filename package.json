@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "description": "a function to create a app",
   "author": "icecream",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/letmeknowhow/batigol-create.git"
+  },
   "license": "MIT",
   "engines": {
     "node": ">= 8"
