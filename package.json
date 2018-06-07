@@ -1,6 +1,6 @@
 {
   "name": "batigol-create",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a function to create a app",
   "author": "icecream",
   "repository": {
@@ -12,7 +12,8 @@
     "node": ">= 8"
   },
   "files": [
-    "index.js"
+    "index.js",
+    "utils.js"
   ],
   "scripts": {},
   "dependencies": {
